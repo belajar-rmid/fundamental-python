@@ -1,1 +1,1 @@
-print('hehehe')
+print(' hehehe ')
